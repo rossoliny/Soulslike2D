@@ -1,0 +1,181 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Страница — 1" id="_edJxDH2dSzS9XdqMJAm">
+    <mxGraphModel dx="1877" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-163" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="120" width="870" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-162" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry y="120" width="620" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-161" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="770" y="120" width="690" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-13" value="Idle" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="234" y="348" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-16" value="Attack" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1004" y="206" width="117" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-18" value="Recovery" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="234" y="316" width="117" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-19" value="Start Attack" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1004" y="180" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-38" value="Staggerable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="351" y="180" width="117" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-51" value="Start Jump" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="234" y="180" width="117" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-52" value="Jump" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="234" y="214" width="117" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-54" value="Fall" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="234" y="248" width="117" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-85" value="Land" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="234" y="282" width="117" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-101" value="Recovery" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1004" y="260" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-115" value="JumpAttackWindow" style="rounded=0;arcSize=40;strokeWidth=2;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="117" y="236" width="117" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-118" value="ComboWindow" style="rounded=0;arcSize=40;strokeWidth=2;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="887" y="240" width="117" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-119" value="RollWidnow" style="rounded=0;arcSize=40;strokeWidth=2;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="887" y="190" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-124" value="В начале анимации прыжка есть небольшое окно для отмены действия с помощью переката.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;В конце состояния Jump открывается окно для атаки и оно длится до приземления и немного во время анимации приземления.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Использовав атаку в этот момент будет применена способность удара с прыжка.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Перекат можно использовать в самом конце анимации приземления и немного в начале Recovery чтобы отменить восстановление.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Если находясь в полёте игрока оглушат (Bash) то воспроизведётся особая анимация падения и общая длительность оглушения будет х2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bashable&amp;amp;Throwable означает что игрока могут как огрулить так и отбросить например взрывом.&lt;/div&gt;" style="rounded=0;arcSize=40;strokeWidth=2;align=left;fontStyle=1;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="390" width="620" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-125" value="Staggerable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="351" y="282" width="117" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-126" value="NotStaggerable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="351" y="214" width="117" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-127" value="RollWindow" style="rounded=0;arcSize=40;strokeWidth=2;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry y="290" width="117" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-128" value="Staggerable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1121" y="180" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-129" value="Bashable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1238" y="180" width="72" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-130" value="Staggerable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1121" y="260" width="117" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-131" value="NotStaggerable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1121" y="210" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-133" value="JumpWidnow" style="rounded=0;arcSize=40;strokeWidth=2;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="770" y="240" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-134" value="Idle" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1004" y="310" width="117" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-135" value="JumpWidnow" style="rounded=0;arcSize=40;strokeWidth=2;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="887" y="310" width="117" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-136" value="Bashable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1978" y="180" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-139" value="Staggerable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2095" y="180" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-140" value="Staggerable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2095" y="307" width="112" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-141" value="Bashable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1978" y="307" width="117" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-143" value="Invincible Frames" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1978" y="240" width="402" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-145" value="JumpWindow" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-146" value="RollWindow" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1620" y="280" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-158" value="&lt;b&gt;JUMP ABILITY STATE FLOW&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry y="120" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-165" value="Bashable&#xa;&amp;&#xa;Throwable&#xa;" style="rounded=0;arcSize=40;strokeWidth=2;align=center;fontStyle=0;verticalAlign=middle;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="468" y="180" width="72" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-160" value="&lt;b&gt;ATTACK ABILITY&amp;nbsp;&lt;/b&gt;&lt;b&gt;STATE FLOW&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="770" y="120" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-166" value="Not Bashable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1978" y="200" width="117" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-167" value="Not Staggerable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="2095" y="200" width="112" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-57" value="Start Roll" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1861" y="180" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-58" value="Roll" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1861" y="230" width="117" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-110" value="Recovery" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1861" y="327" width="117" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-112" value="Idle" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1861" y="394" width="117" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-151" value="End Roll" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1861" y="299" width="117" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-164" value="&lt;b&gt;ROLL ABILITY&amp;nbsp;&lt;/b&gt;&lt;b&gt;STATE FLOW&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="120" width="870" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-168" value="В самом начале атаки её можно успеть отменить использовав ролл. Но если это атака с разбега или с прыжка то отменить нельзя.&#xa;&#xa;Окно для следующей атаки в серии открывается в конце атаки и немного продолжает быть открытым в начале Recovery чтобы можно было отменить Recovery. &#xa;&#xa;Throwable означает что игрока могут отбросить. Но это зависит от баланса. Например во время тяжелой атаки баланс сильно повышается и отбросить игрока будет намного труднее. &#xa;&#xa;Так же есть абилки дающие иммунитет к отбрасыванию.&#xa;" style="rounded=0;arcSize=40;strokeWidth=2;align=left;fontStyle=1;verticalAlign=top;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="770" y="350" width="690" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-169" value="RollWindow" style="rounded=0;arcSize=40;strokeWidth=2;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="117" y="188" width="117" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-170" value="RollWindow" style="rounded=0;arcSize=40;strokeWidth=2;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="117" y="300" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g1f1xFlhapYSyVMv_NoL-171" value="RollAttackWindow" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="280" width="121" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlZbPg9fCO_YwIZ9tJd8-1" value="Damageable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2207" y="180" width="103" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlZbPg9fCO_YwIZ9tJd8-2" value="Damageable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2207" y="307" width="103" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlZbPg9fCO_YwIZ9tJd8-3" value="Damageable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="180" width="80" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlZbPg9fCO_YwIZ9tJd8-4" value="Damageable" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="540" y="180" width="80" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlZbPg9fCO_YwIZ9tJd8-6" value="Throwable&#xa;(Depend&#xa;on&#xa;Balance)" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="180" width="70" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlZbPg9fCO_YwIZ9tJd8-7" value="Throwable&#xa;(Depend&#xa;on&#xa;Balance)" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="180" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlZbPg9fCO_YwIZ9tJd8-8" value="Throwable&#xa;(Depend&#xa;on&#xa;Balance)" style="rounded=0;arcSize=40;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="307" width="70" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlZbPg9fCO_YwIZ9tJd8-9" value="TODO: В целом нужно продумать как работает баланс и на какие вещи он влияет. Влияет ли он на стаггер, баш, отбросы и хэдшоты.&#xa;" style="rounded=0;arcSize=40;strokeWidth=2;align=left;fontStyle=1;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="770" y="540" width="690" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
